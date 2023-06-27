@@ -1,6 +1,10 @@
 {
   "[python]": {
-    "editor.defaultFormatter": "ms-python.autopep8"
+    "editor.defaultFormatter": "ms-python.python"
   },
-  "python.formatting.provider": "none"
+  "python.formatting.provider": "none",
+  "python.linting.pylintEnabled": true,
+  "python.linting.enabled": true,
+  "python.linting.mypyEnabled": false,
+  "python.linting.pycodestyleEnabled": false
 }
